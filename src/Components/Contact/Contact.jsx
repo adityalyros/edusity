@@ -42,7 +42,7 @@ const Contact = () => {
         <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
         <ul>
             <li><img src={mail_icon} alt="" />adityarevanth.a@gmail.com</li>
-            <li><img src={phone_icon} alt="" />+91 7997669660</li>
+            <li><img src={phone_icon} alt="" />+91 799726589</li>
             <li><img src={location_icon} alt="" />77 Massachusetts Ave, Cambridge<br/> MA 02139, United States</li>
         </ul>
       </div>
