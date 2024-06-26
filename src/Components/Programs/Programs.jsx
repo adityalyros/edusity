@@ -31,6 +31,34 @@ const Programs = () => {
             <p>Post Graduation</p>
         </div>
       </div>
+      <div className="program">
+        <img src={program_3} alt="" />
+        <div className="caption">
+            <img src={program_icon_3} alt="" />
+            <p>Post Graduation</p>
+        </div>
+      </div>
+      <div className="program">
+        <img src={program_3} alt="" />
+        <div className="caption">
+            <img src={program_icon_3} alt="" />
+            <p>Post Graduation</p>
+        </div>
+      </div>
+      <div className="program">
+        <img src={program_3} alt="" />
+        <div className="caption">
+            <img src={program_icon_3} alt="" />
+            <p>Post Graduation</p>
+        </div>
+      </div>
+      <div className="program">
+        <img src={program_3} alt="" />
+        <div className="caption">
+            <img src={program_icon_3} alt="" />
+            <p>Post Graduation</p>
+        </div>
+      </div>
     </div>
   )
 }
